@@ -8,7 +8,7 @@ This guide aims to explain the anatomy of an **Atomic Tool** within the **Atomic
 
 Set up the main Atomic Agents library for development by following the instructions in the [development setup guide](/guides/dev-setup.md).
 
-## The Principles
+## The Principles test
 
 An **Atomic Tool** should always be self-contained and modular. This means it should encapsulate specific functionality, such as a calculator, a YouTube transcript scraper, or, in our case, a pizza ordering service. Each tool should be runnable both standalone and by an AI Agent, allowing for easy integration, maintenance, and extension.
 
